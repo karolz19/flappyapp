@@ -2,3 +2,11 @@ h1 {
     color:#00CCCC;
 }
 
+.menu > ul {
+    list-style-type: none;
+    
+}
+
+.menu > ul > li {
+    display: inline;
+}
